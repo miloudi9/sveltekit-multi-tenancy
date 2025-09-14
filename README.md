@@ -2,8 +2,6 @@
 
 This project is a SaaS web application built with SvelteKit, showcasing a multi-tenancy implementation using Turso for database management and Cloudflare for hosting and domain management.
 
-Demo : [https://miloudi-mutli-tenancy.software/](https://miloudi-mutli-tenancy.software/)
-
 ## Features
 
 - Multi-tenancy with one database per tenant using [Turso Multi-DB Schemas](https://docs.turso.tech/features/multi-db-schemas)
